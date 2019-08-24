@@ -1,1 +1,2 @@
 this is a common text.
+Another edit to common file.
