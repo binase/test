@@ -1,6 +1,10 @@
 This is feature 1 file.
 added this line for feature 2
+
 master added this line.
+
+added by feature-2 branch.
+
 fddddddddddddddddddddd
 dddddddddddddddddddddddddddd
 ddddddddddddddddddddddfffffffffffffff
