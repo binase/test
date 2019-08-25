@@ -1,5 +1,9 @@
 This is feature 2 file.
+
 added by feature-2 branch
+
+master added this line.
+
 
 fddddddddddddddddddddd
 dddddddddddddddddddddddddddd
@@ -18,4 +22,13 @@ fddddddddddddddddddddd
 dddddddddddddddddddddddddddd
 ddddddddddddddddddddddfffffffffffffff
 
+
 added by feature-2 branch
+
+master added this line.
+master added this line.
+master added this line.
+
+master added this line.
+master added this line.
+
