@@ -1,12 +1,5 @@
 This is feature 2 file.
-
-
-fddddddddddddddddddddd
-dddddddddddddddddddddddddddd
-ddddddddddddddddddddddfffffffffffffff
-fddddddddddddddddddddd
-dddddddddddddddddddddddddddd
-ddddddddddddddddddddddfffffffffffffff
+added by feature-2 branch
 
 fddddddddddddddddddddd
 dddddddddddddddddddddddddddd
@@ -14,6 +7,15 @@ ddddddddddddddddddddddfffffffffffffff
 fddddddddddddddddddddd
 dddddddddddddddddddddddddddd
 ddddddddddddddddddddddfffffffffffffff
+added by feature-2 branch
 fddddddddddddddddddddd
 dddddddddddddddddddddddddddd
 ddddddddddddddddddddddfffffffffffffff
+fddddddddddddddddddddd
+dddddddddddddddddddddddddddd
+ddddddddddddddddddddddfffffffffffffff
+fddddddddddddddddddddd
+dddddddddddddddddddddddddddd
+ddddddddddddddddddddddfffffffffffffff
+
+added by feature-2 branch
