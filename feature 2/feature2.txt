@@ -1,12 +1,5 @@
 This is feature 2 file.
-
-
-fddddddddddddddddddddd
-dddddddddddddddddddddddddddd
-ddddddddddddddddddddddfffffffffffffff
-fddddddddddddddddddddd
-dddddddddddddddddddddddddddd
-ddddddddddddddddddddddfffffffffffffff
+master added this line.
 
 fddddddddddddddddddddd
 dddddddddddddddddddddddddddd
@@ -14,6 +7,19 @@ ddddddddddddddddddddddfffffffffffffff
 fddddddddddddddddddddd
 dddddddddddddddddddddddddddd
 ddddddddddddddddddddddfffffffffffffff
+
 fddddddddddddddddddddd
 dddddddddddddddddddddddddddd
 ddddddddddddddddddddddfffffffffffffff
+fddddddddddddddddddddd
+dddddddddddddddddddddddddddd
+ddddddddddddddddddddddfffffffffffffff
+fddddddddddddddddddddd
+dddddddddddddddddddddddddddd
+ddddddddddddddddddddddfffffffffffffff
+master added this line.
+master added this line.
+master added this line.
+
+master added this line.
+master added this line.
